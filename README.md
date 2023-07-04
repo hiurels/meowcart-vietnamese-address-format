@@ -7,4 +7,4 @@
   + Address: Workyos Business Center, Tầng 12, Toà nhà Viettel, 285, Hẻm 285 Cách Mạng Tháng Tám, Phường 12, Quận 10, Thành phố Hồ Chí Minh 700000
   + Phone: 0392 590 547
 - CDN:
-  + src: https://raw.githubusercontent.com/harrydarkcode/Meowcart-Vietnamese-Address-Format/main/province.json
+  + src: https://raw.githubusercontent.com/hieupv4/Meowcart-Vietnamese-Address-Format/main/province.json
