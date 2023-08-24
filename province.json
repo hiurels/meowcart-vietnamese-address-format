@@ -47,7 +47,7 @@
   "Bà Rịa Vũng Tàu": { "code": "VT", "file_path": "./provinces/VT.json" },
   "Đắk Lắk": { "code": "DDL", "file_path": "./provinces/DDL.json" },
   "Cần Thơ": { "code": "CT", "file_path": "./provinces/CT.json" },
-  "Bình Thuận  ": { "code": "BTH", "file_path": "./provinces/BTH.json" },
+  "Bình Thuận": { "code": "BTH", "file_path": "./provinces/BTH.json" },
   "Lâm Đồng": { "code": "LDD", "file_path": "./provinces/LDD.json" },
   "Thừa Thiên Huế": { "code": "TTH", "file_path": "./provinces/TTH.json" },
   "Kiên Giang": { "code": "KG", "file_path": "./provinces/KG.json" },
