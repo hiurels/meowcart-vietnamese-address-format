@@ -1,6 +1,6 @@
 {
   "Hồ Chí Minh": { "code": "SG", "file_path": "./provinces/SG.json" },
-  "Hà Nội": { "code": "HN", "file_path": "./provinces/HN.json" },
+  "Hà Nội": { "code": "HN", "file_path": "./provinces/HN.json" },
   "Đà Nẵng": { "code": "DDN", "file_path": "./provinces/DDN.json" },
   "Bình Dương": { "code": "BD", "file_path": "./provinces/BD.json" },
   "Sóc Trăng": { "code": "ST", "file_path": "./provinces/ST.json" },
