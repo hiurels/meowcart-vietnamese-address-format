@@ -1,0 +1,254 @@
+{
+  "Hà Nội": {
+    "code": "HN",
+    "file_path": "./provinces/HN.json"
+  },
+  "Hà Giang": {
+    "code": "HG",
+    "file_path": "./provinces/HG.json"
+  },
+  "Cao Bằng": {
+    "code": "CB",
+    "file_path": "./provinces/CB.json"
+  },
+  "Bắc Kạn": {
+    "code": "BK",
+    "file_path": "./provinces/BK.json"
+  },
+  "Tuyên Quang": {
+    "code": "TQ",
+    "file_path": "./provinces/TQ.json"
+  },
+  "Lào Cai": {
+    "code": "LCA",
+    "file_path": "./provinces/LCA.json"
+  },
+  "Điện Biên": {
+    "code": "DDB",
+    "file_path": "./provinces/DDB.json"
+  },
+  "Lai Châu": {
+    "code": "LCH",
+    "file_path": "./provinces/LCH.json"
+  },
+  "Sơn La": {
+    "code": "SL",
+    "file_path": "./provinces/SL.json"
+  },
+  "Yên Bái": {
+    "code": "YB",
+    "file_path": "./provinces/YB.json"
+  },
+  "Hoà Bình": {
+    "code": "HB",
+    "file_path": "./provinces/HB.json"
+  },
+  "Thái Nguyên": {
+    "code": "TN",
+    "file_path": "./provinces/TN.json"
+  },
+  "Lạng Sơn": {
+    "code": "LS",
+    "file_path": "./provinces/LS.json"
+  },
+  "Quảng Ninh": {
+    "code": "QNI",
+    "file_path": "./provinces/QNI.json"
+  },
+  "Bắc Giang": {
+    "code": "BG",
+    "file_path": "./provinces/BG.json"
+  },
+  "Phú Thọ": {
+    "code": "PT",
+    "file_path": "./provinces/PT.json"
+  },
+  "Vĩnh Phúc": {
+    "code": "VP",
+    "file_path": "./provinces/VP.json"
+  },
+  "Bắc Ninh": {
+    "code": "BN",
+    "file_path": "./provinces/BN.json"
+  },
+  "Hải Dương": {
+    "code": "HD",
+    "file_path": "./provinces/HD.json"
+  },
+  "Hải Phòng": {
+    "code": "HP",
+    "file_path": "./provinces/HP.json"
+  },
+  "Hưng Yên": {
+    "code": "HY",
+    "file_path": "./provinces/HY.json"
+  },
+  "Thái Bình": {
+    "code": "TB",
+    "file_path": "./provinces/TB.json"
+  },
+  "Hà Nam": {
+    "code": "HNA",
+    "file_path": "./provinces/HNA.json"
+  },
+  "Nam Định": {
+    "code": "NDD",
+    "file_path": "./provinces/NDD.json"
+  },
+  "Ninh Bình": {
+    "code": "NB",
+    "file_path": "./provinces/NB.json"
+  },
+  "Thanh Hóa": {
+    "code": "TH",
+    "file_path": "./provinces/TH.json"
+  },
+  "Nghệ An": {
+    "code": "NA",
+    "file_path": "./provinces/NA.json"
+  },
+  "Hà Tĩnh": {
+    "code": "HT",
+    "file_path": "./provinces/HT.json"
+  },
+  "Quảng Bình": {
+    "code": "QB",
+    "file_path": "./provinces/QB.json"
+  },
+  "Quảng Trị": {
+    "code": "QT",
+    "file_path": "./provinces/QT.json"
+  },
+  "Thừa Thiên Huế": {
+    "code": "TTH",
+    "file_path": "./provinces/TTH.json"
+  },
+  "Đà Nẵng": {
+    "code": "DDN",
+    "file_path": "./provinces/DDN.json"
+  },
+  "Quảng Nam": {
+    "code": "QNA",
+    "file_path": "./provinces/QNA.json"
+  },
+  "Quảng Ngãi": {
+    "code": "QNG",
+    "file_path": "./provinces/QNG.json"
+  },
+  "Bình Định": {
+    "code": "BDD",
+    "file_path": "./provinces/BDD.json"
+  },
+  "Phú Yên": {
+    "code": "PY",
+    "file_path": "./provinces/PY.json"
+  },
+  "Khánh Hòa": {
+    "code": "KH",
+    "file_path": "./provinces/KH.json"
+  },
+  "Ninh Thuận": {
+    "code": "NT",
+    "file_path": "./provinces/NT.json"
+  },
+  "Bình Thuận": {
+    "code": "BTH",
+    "file_path": "./provinces/BTH.json"
+  },
+  "Kon Tum": {
+    "code": "KT",
+    "file_path": "./provinces/KT.json"
+  },
+  "Gia Lai": {
+    "code": "GL",
+    "file_path": "./provinces/GL.json"
+  },
+  "Đắk Lắk": {
+    "code": "DDL",
+    "file_path": "./provinces/DDL.json"
+  },
+  "Đắk Nông": {
+    "code": "DNO",
+    "file_path": "./provinces/DNO.json"
+  },
+  "Lâm Đồng": {
+    "code": "LDD",
+    "file_path": "./provinces/LDD.json"
+  },
+  "Bình Phước": {
+    "code": "BP",
+    "file_path": "./provinces/BP.json"
+  },
+  "Tây Ninh": {
+    "code": "TNI",
+    "file_path": "./provinces/TNI.json"
+  },
+  "Bình Dương": {
+    "code": "BD",
+    "file_path": "./provinces/BD.json"
+  },
+  "Đồng Nai": {
+    "code": "DNA",
+    "file_path": "./provinces/DNA.json"
+  },
+  "Bà Rịa - Vũng Tàu": {
+    "code": "VT",
+    "file_path": "./provinces/VT.json"
+  },
+  "Hồ Chí Minh": {
+    "code": "SG",
+    "file_path": "./provinces/SG.json"
+  },
+  "Long An": {
+    "code": "LA",
+    "file_path": "./provinces/LA.json"
+  },
+  "Tiền Giang": {
+    "code": "TG",
+    "file_path": "./provinces/TG.json"
+  },
+  "Bến Tre": {
+    "code": "BTR",
+    "file_path": "./provinces/BTR.json"
+  },
+  "Trà Vinh": {
+    "code": "TV",
+    "file_path": "./provinces/TV.json"
+  },
+  "Vĩnh Long": {
+    "code": "VL",
+    "file_path": "./provinces/VL.json"
+  },
+  "Đồng Tháp": {
+    "code": "DDT",
+    "file_path": "./provinces/DDT.json"
+  },
+  "An Giang": {
+    "code": "AG",
+    "file_path": "./provinces/AG.json"
+  },
+  "Kiên Giang": {
+    "code": "KG",
+    "file_path": "./provinces/KG.json"
+  },
+  "Cần Thơ": {
+    "code": "CT",
+    "file_path": "./provinces/CT.json"
+  },
+  "Hậu Giang": {
+    "code": "HGI",
+    "file_path": "./provinces/HGI.json"
+  },
+  "Sóc Trăng": {
+    "code": "ST",
+    "file_path": "./provinces/ST.json"
+  },
+  "Bạc Liêu": {
+    "code": "BL",
+    "file_path": "./provinces/BL.json"
+  },
+  "Cà Mau": {
+    "code": "CM",
+    "file_path": "./provinces/CM.json"
+  }
+}
